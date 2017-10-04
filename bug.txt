@@ -1,0 +1,29 @@
+Rarity: Rare
+Vortex Secrets
+Plateau Map
+--------
+Map Tier: 12
+Item Quantity: +135% (augmented)
+Item Rarity: +64% (augmented)
+Monster Pack Size: +38% (augmented)
+Quality: +12% (augmented)
+--------
+Item Level: 81
+--------
+25% more Rare Monsters
+Players are Cursed with Enfeeble
+Monsters have 90% chance to Avoid Elemental Ailments
+Monsters' skills Chain 2 additional times
+Rare Monsters each have a Nemesis Mod
+Monsters have 50% increased Accuracy Rating
++25% Monster Chaos Resistance
++40% Monster Elemental Resistance
+60% less effect of Curses on Monsters
+Players have 30% less Armour
+Players have 40% reduced Block Chance
+Player Dodge chance is Unlucky
+--------
+Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.
+--------
+Corrupted
+supposed to be 8 but show 7
