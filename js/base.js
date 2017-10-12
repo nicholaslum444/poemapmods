@@ -76,7 +76,7 @@ function getModGroup(modText) {
   r.fleet2 = /\d*% increased Monster Attack Speed/;
   r.fleet3 = /\d*% increased Monster Cast Speed/;
   r.freezing = /Monsters deal \d*% extra Damage as Cold/;
-  r.hexwarded = /25% less effect of Curses on Monsters/;
+  r.hexwarded = /\d% less effect of Curses on Monsters/;
   r.impervious = /Monsters have a \d*% chance to avoid Poison, Blind, and Bleed/;
   r.mirrored = /Monsters reflect \d*% of Elemental Damage/;
   r.overlords1 = /Unique Boss deals \d*% increased Damage/;
